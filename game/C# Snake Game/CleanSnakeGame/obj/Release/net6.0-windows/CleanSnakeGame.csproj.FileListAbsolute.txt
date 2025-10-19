@@ -1,0 +1,14 @@
+C:\game\C# Snake Game\CleanSnakeGame\bin\Release\net6.0-windows\CleanSnakeGame.exe
+C:\game\C# Snake Game\CleanSnakeGame\bin\Release\net6.0-windows\CleanSnakeGame.deps.json
+C:\game\C# Snake Game\CleanSnakeGame\bin\Release\net6.0-windows\CleanSnakeGame.runtimeconfig.json
+C:\game\C# Snake Game\CleanSnakeGame\bin\Release\net6.0-windows\CleanSnakeGame.dll
+C:\game\C# Snake Game\CleanSnakeGame\bin\Release\net6.0-windows\CleanSnakeGame.pdb
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.AssemblyInfoInputs.cache
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.AssemblyInfo.cs
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.csproj.CoreCompileInputs.cache
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.dll
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\refint\CleanSnakeGame.dll
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.pdb
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\CleanSnakeGame.genruntimeconfig.cache
+C:\game\C# Snake Game\CleanSnakeGame\obj\Release\net6.0-windows\ref\CleanSnakeGame.dll
